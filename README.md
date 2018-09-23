@@ -1,7 +1,7 @@
 # netcat-for-windows
 Netcat for windows. From https://eternallybored.org/misc/netcat/
 
-Download from https://github.com/rahuldottech/netcat-for-windows/releases
+Download binaries from the [releases](https://github.com/rahuldottech/netcat-for-windows/releases) page.
 
 Quote from original website:
 
